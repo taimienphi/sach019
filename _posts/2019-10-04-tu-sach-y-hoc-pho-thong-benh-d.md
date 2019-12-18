@@ -1,0 +1,23 @@
+---
+author: Khắc Trường
+categories:
+- Y Học - Sức Khỏe
+description: Tủ Sách Y Học Phổ Thông - Bệnh Đau Đầu
+download_links:
+- info: pdf
+  url: https://sachvui.com/download/pdf/6819
+image: https://sachvui.com/cover/2018/tu-sach-y-hoc-pho-thong-benh-dau-dau.jpg
+layout: post
+permalink: /tu-sach-y-hoc-pho-thong-benh-dau-dau.html
+tags:
+- tải sách miễn phí
+- tải sách nhanh
+- tải ebooks miễn phí
+- pdf miễn phí
+- Tủ Sách Y Học Phổ Thông - Bệnh Đau Đầu ebook
+- Tủ Sách Y Học Phổ Thông - Bệnh Đau Đầu pdf
+thumbnail_url: https://sachvui.com/cover/2018/tu-sach-y-hoc-pho-thong-benh-dau-dau.jpg
+title: Tủ Sách Y Học Phổ Thông - Bệnh Đau Đầu
+---
+
+ <div class="item-desc text-justify"> <p>Đau đầu được định nghĩa là đau ở vùng đầu, gáy, vùng cổ trên. Vùng mặt hốc mắt. Có thể đau khu trú một bên hoặc lan tỏa. Theo nghiên cứu của Mỹ, khoảng 90% dân số có biểu hiện ít nhất 1 lần đau đầu trong vòng 1 năm, trong số đó khoảng 1% đau đầu có nguyên nhân trầm trọng.</p><p>Đau đầu do nhiều nguyên nhân gây ra. Năm 2007, Hiệp hội đau đầu thế giới chia đau đầu ra thành ba nhóm:<br> </p><ol><li>Đau đầu nguyên phát</li><li>Đau đầu thứ phát</li><li>Chứng đau thần kinh sọ, đau thần kinh mặt và các chứng đau đầu khác.</li></ol><p>Nhóm đau đầu nguyên phát thường không rõ căn nguyên, các điều kiện thuận lợi như rối loạn tâm lý cảm xúc, căng thẳng, rối loạn nội tiết và rối loạn vận mạch não. Nhóm này gồm các loại đau đầu như: đau đầu migraine hay còn gọi là đau nửa đầu do rối loạn vận mạch, đau đầu căng thẳng, đau đầu thành chập.</p><p>Đau đầu migraine hay còn gọi là cơn đau nửa đầu do rối loạn vận mạch thường không rõ căn nguyên, biểu hiện bằng rối loạn vận mạch não. Loại đau đầu này thường gặp ở nữ hơn ở nam giới với tỷ lệ 3: 1 và thường xuất hiện ở người trẻ đang tuổi lao động. Đặc biệt, cơn đau nửa đầu có thể liên quan tới chu kỳ kinh nguyệt ở nữ giới: đau đầu xảy ra trước hai ngày hoặc kết thúc chu kỳ hành kinh.</p><p>Đau đầu căng thẳng là nhóm hay gặp nhất, thường ở nam giới với tỷ lệ 5 nam / 4 nữ. Nguyên nhân thường liên quan đến căng thẳng.</p><p>Cơn đau đầu thành chập hay xảy ra vùng hố mắt trên hốc mắt 1 bên hoặc vùng thái dương. Cơn kéo dài từ 15-180 phút nếu không được điều trị, có thể kèm theo kích ứng kết mạc, chảy nước mắt, nghẹt sổ mũi 1 bên, phù nề mí mắt, đổ mồ hôi trán và mặt…</p><p>Nhóm đau đầu thứ phát thường có nguyên nhân như do chấn thương sọ não, chấn thương vùng cổ gáy gây tụ máu não, tụ mãu dưới màng cứng. Hoặc do gãy xương cột sống hoặc trượt đốt sống cổ gây đè ép tủy cổ. Nếu chẩn đoán sớm sẽ có can thiệp ngoaị khoa sớm giúp bệnh nhân hồi phục nhanh.</p><p>Ngoài ra, trong nhóm đau đầu thứ phát còn có đau đầu do lạm dụng quá mức các thuốc giảm đau: trường hợp này cũng hay gặp do bệnh nhân dùng thuốc không theo chỉ dẫn của thầy thuốc dẫn tới tình trạng đau đầu do lạm dụng thuốc giảm đau, đau đầu do các bệnh lý cơ quan khác nhau như bệnh lý mũi xoang (viêm xoang), mắt (thiên đầu thống, tật khúc xạ mắt, cổ gáy, đau đầu do căn nguyên rối loạn tâm thần, đau đầu do động kinh, v…v…</p><p>Chứng đau dây thần kinh sọ mặt, đau nửa mặt, đau dây thần kinh số năm.., đau thần kinh vùng chẩm hay gọi là chứng đau thần kinh Arnold.</p><p><strong>Các triệu chứng đau đầu cần được coi là cấp cứu:</strong></p><ul><li>Đau đầu đột ngột dữ dội, kết hợp gáy cứng.</li><li>Đau đầu kết hợp sốt cao, co giật hoặc lú lẫn hoặc mất ý thức.</li><li>Đau đầu sau 1 cú đánh hoặc kết hợp đau mắt, đau tai.</li><li>Đau đầu dai dẳng hoặc ngày 1 tăng trên 1 người bệnh không có tiền sử đau đầu đặc biệt.</li><li>Đau đầu dai dẳng ở trẻ em.</li><li>Ngoài ra, những người có tiền sử đau đầu vận mạch, nhưng xuất hiện cơn đau mới trầm trọng hơn và kèm theo các triệu chứng bất thường khác như: tê bì tay chân, hoặc mờ mắt hoặc có biểu hiện cơn thoáng ngất hoặc thoáng quên.</li></ul><p>Đối với những trường hợp trên, bệnh nhân nên đi khám bệnh sớm để được chẩn đoán và điều trị kịp thời.</p><p>Tại Bệnh viện Việt Pháp Hà Nội, thầy thuốc chuyên khoa nội thần kinh sẽ thăm khám bệnh nhân kết hợp hỏi bệnh chi tiết để có định hướng chẩn đoán và thăm dò cần thiết. Bệnh nhân có thể cần xét nghiệm máu, chụp cắt lớp vi tính sọ não hoặc chụp cộng hưởng từ sọ não và mạch máu (có hoặc không có tiêm thuốc), chọc dịch não tủy khi bệnh nhân có biểu hiện đau đầu có hội chứng màng não kèm sốt cao.</p><p>Ngoài ra tùy từng trường hợp cụ thể mà bác sĩ sẽ có chỉ định các thăm dò chuyên sâu khác như chụp cắt lớp vi tính 64 dãy hoặc chụp mạch não mã hóa xóa nền, v…v….</p><p>Kế hoạch điều trị sẽ được bác sỹ xác định theo căn nguyên của chứng đau đầu. Bệnh nhân có thể được chỉ định dùng thuốc giảm đau kết hợp với chế độ ăn uống phù hợp, tập thể dục đều đặn và thay đổi thói quen sinh hoạt.</p> </div>
